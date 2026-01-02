@@ -25,6 +25,10 @@ The ESP32 does not control the game logic; it interacts with the backend and the
 * 1 × NeoPixel RGB LED (1 LED)
 * Breadboard + jumper wires
 
+<img width="1233" height="560" alt="image" src="https://github.com/user-attachments/assets/81122ae8-4dbb-4000-95ba-0755c425e2e7" />
+<img width="2072" height="719" alt="image" src="https://github.com/user-attachments/assets/6f840a72-afa3-464a-a03c-cbf2d58b6fe6" />
+
+
 ### OLED (I2C + Buttons)
 
 | OLED Pin | ESP32 Pin                               |
