@@ -144,6 +144,7 @@ Find your IP with `ipconfig` (Windows) or `ifconfig`/`ip a` (Linux/macOS).
 6. Start a game from the mobile/web app
 7. Move potentiometers to reach target on OLED
 8. Results are sent automatically to backend
+9. Tips : To play again put the potentiometer's at the center position
 
 ---
 
