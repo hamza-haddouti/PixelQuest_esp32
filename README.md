@@ -27,6 +27,9 @@ The ESP32 does not control the game logic; it interacts with the backend and the
 
 <img width="1233" height="560" alt="image" src="https://github.com/user-attachments/assets/81122ae8-4dbb-4000-95ba-0755c425e2e7" />
 <img width="2072" height="719" alt="image" src="https://github.com/user-attachments/assets/6f840a72-afa3-464a-a03c-cbf2d58b6fe6" />
+<img width="507" height="674" alt="image" src="https://github.com/user-attachments/assets/e6995257-bde9-46bb-b8d0-0d14a1161a0f" />
+<img width="512" height="692" alt="image" src="https://github.com/user-attachments/assets/2096aaba-05e8-4679-b2e3-d7d06b3e0912" />
+
 
 
 ### OLED (I2C + Buttons)
